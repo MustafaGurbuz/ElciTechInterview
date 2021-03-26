@@ -2,11 +2,6 @@
 
 I made an REST API Project with using ReactJS and Java. ReactJS is really useful and popular framework nowadays. Because it provides so much useful libraries and let you integrate however you want. That's why it is impresive for me to make so many project and let me improve more about being Frontend Developer.
 
-## ReactJS
-
-<img src="GifFiles/MyBurger.gif">
-
-
 # Kullanılan Teknolojiler
 
 - React Javascript
